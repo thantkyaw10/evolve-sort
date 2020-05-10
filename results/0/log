@@ -1,0 +1,13 @@
+000 (780.000.000) 05/09 18:37:27 Job submitted from host: <148.85.78.197:9618?addrs=148.85.78.197-9618&noUDP&sock=878241_2b6b_3>
+...
+001 (780.000.000) 05/09 18:37:27 Job executing on host: <148.85.78.200:9618?addrs=148.85.78.200-9618&noUDP&sock=25405_9c05_3>
+...
+007 (780.000.000) 05/09 18:37:27 Shadow exception!
+	Error from slot2@csc3-node06.amherst.edu: Failed to execute '/mnt/scratch/h5thset/propel/run': (errno=8: 'Exec format error')
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+012 (780.000.000) 05/09 18:37:27 Job was held.
+	Error from slot2@csc3-node06.amherst.edu: Failed to execute '/mnt/scratch/h5thset/propel/run': (errno=8: 'Exec format error')
+	Code 6 Subcode 8
+...
