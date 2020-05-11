@@ -621,8 +621,8 @@
   (binding [*ns* (the-ns 'propel.core)]
     (propel-gp (update-in (merge {:instructions sort-instructions
                                   :error-function sort-error-function
-                                  :max-generations 100000
-                                  :population-size 100
+                                  :max-generations 10000000
+                                  :population-size 500
                                   :max-initial-plushy-size 50
                                   :step-limit 100
                                   :input-list-size 20
