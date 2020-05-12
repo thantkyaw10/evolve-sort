@@ -11,3 +11,19 @@
 	Error from slot2@csc3-node06.amherst.edu: Failed to execute '/mnt/scratch/h5thset/propel/run': (errno=8: 'Exec format error')
 	Code 6 Subcode 8
 ...
+000 (794.001.000) 05/12 09:45:35 Job submitted from host: <148.85.78.197:9618?addrs=148.85.78.197-9618&noUDP&sock=878241_2b6b_3>
+...
+001 (794.001.000) 05/12 09:45:36 Job executing on host: <148.85.78.198:9618?addrs=148.85.78.198-9618&noUDP&sock=25545_a348_3>
+...
+006 (794.001.000) 05/12 09:45:44 Image size of job updated: 743328
+	726  -  MemoryUsage of job (MB)
+	743264  -  ResidentSetSize of job (KB)
+...
+006 (794.001.000) 05/12 09:50:44 Image size of job updated: 2133416
+	2084  -  MemoryUsage of job (MB)
+	2133352  -  ResidentSetSize of job (KB)
+...
+006 (794.001.000) 05/12 15:06:18 Image size of job updated: 2293968
+	2241  -  MemoryUsage of job (MB)
+	2293904  -  ResidentSetSize of job (KB)
+...

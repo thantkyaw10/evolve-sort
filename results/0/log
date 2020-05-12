@@ -11,3 +11,39 @@
 	Error from slot2@csc3-node06.amherst.edu: Failed to execute '/mnt/scratch/h5thset/propel/run': (errno=8: 'Exec format error')
 	Code 6 Subcode 8
 ...
+000 (794.000.000) 05/12 09:45:35 Job submitted from host: <148.85.78.197:9618?addrs=148.85.78.197-9618&noUDP&sock=878241_2b6b_3>
+...
+001 (794.000.000) 05/12 09:45:36 Job executing on host: <148.85.78.198:9618?addrs=148.85.78.198-9618&noUDP&sock=25545_a348_3>
+...
+006 (794.000.000) 05/12 09:45:44 Image size of job updated: 745376
+	728  -  MemoryUsage of job (MB)
+	745312  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 09:50:44 Image size of job updated: 1426480
+	1393  -  MemoryUsage of job (MB)
+	1426416  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 10:15:46 Image size of job updated: 1577484
+	1541  -  MemoryUsage of job (MB)
+	1577420  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 10:40:49 Image size of job updated: 1646796
+	1609  -  MemoryUsage of job (MB)
+	1646732  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 10:45:49 Image size of job updated: 1807004
+	1765  -  MemoryUsage of job (MB)
+	1806940  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 14:41:13 Image size of job updated: 2063216
+	2015  -  MemoryUsage of job (MB)
+	2063152  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 15:36:19 Image size of job updated: 2143976
+	2094  -  MemoryUsage of job (MB)
+	2143912  -  ResidentSetSize of job (KB)
+...
+006 (794.000.000) 05/12 15:56:22 Image size of job updated: 2246880
+	2195  -  MemoryUsage of job (MB)
+	2246816  -  ResidentSetSize of job (KB)
+...
