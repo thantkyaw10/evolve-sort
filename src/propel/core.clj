@@ -623,8 +623,8 @@
                                   :error-function sort-error-function
                                   :max-generations 120000
                                   :population-size 300
-                                  :max-initial-plushy-size 50
-                                  :step-limit 100
+                                  :max-initial-plushy-size 150
+                                  :step-limit 500
                                   :input-list-size 20
                                   :parent-selection :tournament
                                   :tournament-size 5}
